@@ -2,7 +2,7 @@
   "name": "kasa",
   "version": "1.0.1",
   "private": true,
-  "homepage": "https://cheikh-mbacke.github.io/Creer-une-application-web-de-location-immobiliere-avec-React/",
+  "homepage": "https://cheikh-mbacke.github.io/Cr-ez-une-application-web-de-location-immobili-re-avec-React/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
