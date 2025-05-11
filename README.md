@@ -28,7 +28,3 @@
    ```
 
    Ouvrez [http://localhost:3000](http://localhost:3000) pour voir l'application dans votre navigateur.
-
-## 🌐 Démo en ligne
-
-L'application est déployée sur GitHub Pages : [Voir la démo](https://cheikh-mbacke.github.io/Creer-une-application-web-de-location-immobiliere-avec-React/)
